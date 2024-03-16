@@ -1,3 +1,5 @@
+# Twitter Bigram Analysis with Apache Spark and EMR Benchmarking
+
 Top 10 bigrams in "es":
 1.- ((de,la),3421)
 2.- ((#eurovision,#finaleurovision),3341)
@@ -39,7 +41,7 @@ Top 10 bigrams in "en":
 9.- ((is,the),2925)
 10.- ((to,be),2674)
 
-# BENCHMARK
+## BENCHMARK
 The time elapsed in "es": 10 minutes.
 The time elapsed in "ca": 9 minutes.
 The time elapsed in "en": 10 minutes.
