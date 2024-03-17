@@ -1,5 +1,5 @@
 # Twitter Bigram Analysis with Apache Spark and EMR Benchmarking
-Due to size limit reasons, the dataset is not uploaded here. Contact to me if interested in running the program.
+Due to size limit reasons, the dataset is not uploaded here. Contact to me if interested in running the program. 
 
 Top 10 bigrams in "es":
 1.- ((de,la),3421)
